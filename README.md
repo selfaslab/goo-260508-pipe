@@ -1,6 +1,15 @@
-# BrainBite MVP
+# 연구 논문 쇼츠 대본 만들기 MVP
 
 모노레포로 구성된 **논문 검색 → 저장 → AI 요약 → Shorts 스크립트** 파이프라인 초기 버전입니다.
+
+<img width="1400" height="541" alt="pipe0" src="https://github.com/user-attachments/assets/5726922b-e35a-439f-8605-054f8bad82a4" />
+
+<img width="1400" height="1132" alt="pipe2" src="https://github.com/user-attachments/assets/76f806ad-b805-4a92-ad4d-7546e9461a9b" />
+
+<img width="1400" height="1033" alt="pipe3" src="https://github.com/user-attachments/assets/bc161ded-7089-4f97-9be6-6a2c46586336" />
+
+<img width="1400" height="1186" alt="pipe4" src="https://github.com/user-attachments/assets/b9f509c0-f546-439b-92e7-9ccdbdf40c72" />
+
 
 ## 보안 (GitHub 푸시 시)
 
