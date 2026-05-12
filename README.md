@@ -54,3 +54,7 @@ API 기본 주소: http://localhost:8000
 
 - 프론트: Vercel — 빌드 시 `VITE_API_BASE_URL`을 Railway API URL로 설정
 - API: Railway — `CORS_ORIGINS`에 Vercel 도메인 추가
+
+## GitHub
+
+- 원격: [selfaslab/goo-260508-pipe](https://github.com/selfaslab/goo-260508-pipe)
