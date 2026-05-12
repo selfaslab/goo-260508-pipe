@@ -8,7 +8,6 @@
 
 <img width="1400" height="1033" alt="pipe3" src="https://github.com/user-attachments/assets/bc161ded-7089-4f97-9be6-6a2c46586336" />
 
-<img width="1400" height="1186" alt="pipe4" src="https://github.com/user-attachments/assets/b9f509c0-f546-439b-92e7-9ccdbdf40c72" />
 
 
 ## 보안 (GitHub 푸시 시)
@@ -28,6 +27,8 @@
 1. [Supabase](https://supabase.com) 프로젝트 생성 후 `supabase/migrations/*.sql` 순서대로 실행
 2. OpenAI API 키
 3. (선택) NCBI API 키 — PubMed 요청 한도 완화
+
+<img width="1400" height="1186" alt="pipe4" src="https://github.com/user-attachments/assets/b9f509c0-f546-439b-92e7-9ccdbdf40c72" />
 
 ## 환경 변수
 
