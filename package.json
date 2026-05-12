@@ -1,0 +1,16 @@
+{
+  "name": "brainbite",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build -w @brainbite/shared-types && npm run build -w web",
+    "dev:web": "npm run build -w @brainbite/shared-types && npm run dev -w web",
+    "lint:web": "npm run lint -w web"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
